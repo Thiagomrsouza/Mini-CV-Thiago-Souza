@@ -1,0 +1,79 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caixa {
+    background-color: #384361;
+    padding: 5px 0px 30px;
+    margin-right: 570px; 
+    
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    margin: 20PX -260PX 0PX 0PX;
+}
+img {
+    width: 240px;
+    border-radius: 1000px;
+    margin: -110px 0px -50px 50px;    
+}
+
+#profissao {
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    margin: 10PX 0PX 30PX 240PX;
+      
+}
+
+.cel {
+    background-color: antiquewhite;
+    width: 30px;
+    margin: 0px 10px 50px 70px  
+}
+
+.h6 {
+    color: #ffffff;
+    margin: -75px 0px 0px 400px;
+}
+
+.h7 {
+    color: #ffffff;
+    margin: -115px 0px 0px 400px;
+}
+.h8 {
+    color: #ffffff;
+    margin: -20px 0px 10px 400px;
+}
+
+
+#email {
+    background-color: antiquewhite;
+    width: 30px;
+    margin: 20px 0px 90px 365px
+}
+
+.git {
+    
+        background-color: antiquewhite;
+        width: 30px;
+        margin: 20px 0px 0px 365px  
+}
+
+.centro {
+    background-color:#CAD1E6;
+    padding: 5px 10px 50px;
+    margin-right: 570px; 
+}
+
+.objetivo {
+    color:#555861;
+    text-align: left;
+}
+
+p {
+    color:#555861;
+    text-align: left;
+}
